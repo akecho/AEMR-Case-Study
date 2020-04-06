@@ -1,5 +1,7 @@
 --AEMR Case. SQL Queries to Retrieve Data
 --AEMR Case Study|
+--Ask exploratory questions and use SQL queries to answer them.
+--Questions are divided into separate sections.
 -------------------
 -- Question 1.1
 SELECT COUNT(status='Approved') AS Total_Number_Outage_Events, Status, Reason
